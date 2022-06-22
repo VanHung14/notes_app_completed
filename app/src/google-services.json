@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610695440016",
+    "project_id": "notesapp-ebb90",
+    "storage_bucket": "notesapp-ebb90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610695440016:android:423cd4259e2533d67b9a15",
+        "android_client_info": {
+          "package_name": "com.example.notesapptutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610695440016-16758bb0qscej2pqvssc4jt006s1mgi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-vJE_U4h6KdmCrGXtvC2zkrIq-G6b4gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610695440016-16758bb0qscej2pqvssc4jt006s1mgi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
